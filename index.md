@@ -1,12 +1,13 @@
 ## 歡迎來 GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/kuchyang/operation-html/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+您可以使用 [editor on GitHub](https://github.com/kuchyang/operation-html/edit/gh-pages/index.md) to 維護和預覽 您網站的內容 in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown is a lightweight and easy-to-use syntax for styling your writing.   
+它包括以下約定
 
 ```markdown
 Syntax highlighted code block
