@@ -1,6 +1,6 @@
-## 歡迎來 GitHub Pages
+## GitHub Pages
 
-您可以使用 [editor on GitHub](https://github.com/kuchyang/operation-html/edit/gh-pages/index.md) to 維護和預覽 您網站的內容 in Markdown files.
+可以使用 [editor on GitHub](https://github.com/kuchyang/operation-html/edit/gh-pages/index.md) to 維護和預覽 您網站的內容 in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -29,16 +29,6 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kuchyang/operation-html/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
 ***
-+ https://docs.github.com/en/pages/getting-started-with-github-pages/adding-a-theme-to-your-github-pages-site-with-the-theme-chooser
-+ https://jekyllrb.com/docs/front-matter/
-
 + https://kuchyang.github.io/operation-html/
