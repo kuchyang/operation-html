@@ -45,6 +45,16 @@ div.content {/*內容*/
 @media screen and (max-width:400px) {/*屏幕<400px,導航欄垂直堆疊*/
   ul.sidenav li a {text-align: center; float: none; }
 }
+	
+
+.embed-container { 
+  position: relative; 
+  padding-bottom: 56.25%; 長寬比
+  height: 0;  overflow: hidden; max-width: 100%; 
+} 
+.embed-container iframe, .embed-container object, .embed-container embed { 
+  position: absolute; 
+  top: 0; left: 0;  width: 100%; height: 100%; 
 </style>
   
 </head>
@@ -69,7 +79,14 @@ div.content {/*內容*/
       </p>
   </div>
 
-
+    <div class="embed-container" style="text-align:center;font-size: 18px;">
+      <iframe width="360" height="280" src="https://www.youtube.com/embed/GaOMH7woOTw" frameborder="0"/*邊框顯＆隱*/
+            allow="accelerometer;autoplay;encrypted-media;gyroscope;picture-in-picture;fullscreen;"></iframe>
+      <p>電腦圖學_機器人跳舞</p>
+    </div>
+	
+	
+	
 
 
   <div class="Block_Orchid-blue" >
